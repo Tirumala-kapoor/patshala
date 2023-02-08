@@ -4,7 +4,11 @@ import java.time.LocalDate;
 
 import lombok.Data;
 
-
+/**
+ * 
+ * @author kapoor_tirumala
+ *
+ */
 @Data
 public class ExamScheduleDTO{
 	private Integer schoolId;	

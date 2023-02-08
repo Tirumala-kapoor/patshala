@@ -17,7 +17,11 @@ import jakarta.persistence.Temporal;
 import jakarta.persistence.TemporalType;
 import lombok.Getter;
 import lombok.Setter;
-
+/**
+ * 
+ * @author kapoor_tirumala
+ *
+ */
 @Entity
 @Table(name="exam_schedules")
 @Setter

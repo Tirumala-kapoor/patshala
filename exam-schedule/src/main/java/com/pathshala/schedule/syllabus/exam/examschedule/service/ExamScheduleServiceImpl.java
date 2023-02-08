@@ -14,7 +14,11 @@ import com.pathshala.schedule.syllabus.exam.examschedule.model.ExamSchedule;
 import com.pathshala.schedule.syllabus.exam.examschedule.repository.ExamScheduleRepository;
 
 import lombok.RequiredArgsConstructor;
-
+/**
+ * 
+ * @author kapoor_tirumala
+ *
+ */
 @Service
 @RequiredArgsConstructor
 public class ExamScheduleServiceImpl implements ExamScheduleService {

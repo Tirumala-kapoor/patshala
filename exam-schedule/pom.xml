@@ -79,6 +79,7 @@
 							<artifactId>lombok</artifactId>
 							<version>1.18.24</version>
 						</path>
+						<!-- Mapper dependency-->
 						<path>
 							<groupId>org.mapstruct</groupId>
 							<artifactId>mapstruct-processor</artifactId>

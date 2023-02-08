@@ -13,7 +13,11 @@ import org.mapstruct.factory.Mappers;
 
 import com.pathshala.schedule.syllabus.exam.examschedule.dto.ExamScheduleDTO;
 import com.pathshala.schedule.syllabus.exam.examschedule.model.ExamSchedule;
-
+/**
+ * 
+ * @author kapoor_tirumala
+ *
+ */
 @Mapper(componentModel = "spring")
 public interface ExamScheduleMapper {
 	
